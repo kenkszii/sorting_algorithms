@@ -82,3 +82,4 @@ void radix_sort(int *array, size_t size)
 		sort = count_sort(array, size, i);
 		print_array(array, size);
 	}
+}
